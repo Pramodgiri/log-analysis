@@ -1,0 +1,8 @@
+{"id":"a","state":"STARTED","type":"app","host":"abc","timestamp":124}
+{"id":"b","state":"STARTED","timestamp":125}
+{"id":"c","state":"STARTED","timestamp":126}
+{"id":"a","state":"FINISHED","type":"app","host":"abc","timestamp":136}
+{"id":"b","state":"FINISHED","timestamp":127}
+{"id":"c","state":"FINISHED","timestamp":128}
+{"id":"d","state":"STARTED","timestamp":1271}
+{"id":"d","state":"FINISHED","timestamp":1281}
